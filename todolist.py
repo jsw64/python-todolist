@@ -4,7 +4,7 @@ from tkinter import filedialog
 import pickle
 
 root = Tk()
-root.title('testing 123')
+root.title('My To Do List')
 
 root.geometry("500x500")
 
